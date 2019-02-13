@@ -19,4 +19,4 @@ Zach Kessler week 3
 
 - Can a coding artist allow a user to experiance multiple, movable, resizable canvases? Why whould you want to do this? I'm not sure. I'll leave that to the real artists. 
 
-![HW3-image](images/HW3-image.png)
+![HW3-image](Images/HW3-image.png)
