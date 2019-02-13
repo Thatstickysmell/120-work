@@ -1,5 +1,3 @@
-# Empty p5 sketch.
+Zach Kessler week 3
 
-Please replace contents of this file with appropriate readme information after finishing your p5 sketch.
-
-Current p5 version -> 0.7.1
+["Hello World!"](https://thatstickysmell.github.io/120-work/HW-3/)
