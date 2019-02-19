@@ -1,7 +1,13 @@
 function setup() {
-    createCanvas( 1000, 1000 );
-    Background ( 'Pink' );
+    createCanvas( 1000, 1000 )
+    background( 'Purple')
 }
 
-function draw() {
-    ellipse ( 500, 500, 50, )
+function draw(){
+
+    translate( 500, 500 );
+
+    noStroke();
+    fill('tan')
+    ellipse( 0, -300, 100, 120 );
+}
