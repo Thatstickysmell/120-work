@@ -3,7 +3,7 @@ function setup() {
     background( 'Purple')
 }
 
-//Declair draw
+//Declair draw 
 function draw(){
     text( "Hello World", 300, 200 );
 }
