@@ -4,10 +4,22 @@ function setup() {
 }
 
 let bodyW = 40 // setting variable where bodyW stands for Body Width
-let armSwingAngle = 0 // 
+let armSwingAngle = 0 
 
 function draw() {
     background( 75);
+
+   push();
+    let squareX = windowWidth/2
+    let squareY = windowHeight/2
+    stroke( 213, 243, 15);
+    strokeWeight(3);
+    fill( 'yellow'); 
+    rect( windowWidth/2, windowHeight/2, 20, 20);
+    squareX = squareX + 1;
+    squareY = squareY + 1;
+    pop();
+
      armSwingAngle = armSwingAngle + 10
     // Creating a sandbox for the person.
     push();
