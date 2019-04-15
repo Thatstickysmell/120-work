@@ -22,10 +22,11 @@ function draw() {
     rotate( radians (armSwingAngle) ); 
     line( -5, 0, 125, 35);
     pop();
+    // Left Arm
     push();
-    
+    translate( -bodyW, 35);
     rotate(radians (mouseX + mouseY) );
-    line( -bodyW, 35, -125, 35);
+    line( 5, 0, -125, 35);
     pop();
     
     
