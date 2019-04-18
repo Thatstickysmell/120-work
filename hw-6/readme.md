@@ -1,5 +1,6 @@
-# Empty p5 sketch.
+# Zach Kessler 
 
-Please replace contents of this file with appropriate readme information after finishing your p5 sketch.
-
-Current p5 version -> 0.7.1
+## Things I applied
+I created objects with variables within them to help me remember the possitions of certain objects. 
+I also learned how to generate random outcomes within functions. I used a random color generator in this project. I constrainded one of my moveavle objects so that you could not move the object off of the screen. 
+For this project, I also learned how to make my random star generator contained around the screen. 

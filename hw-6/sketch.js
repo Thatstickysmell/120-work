@@ -22,7 +22,7 @@ function setup() {
 function draw() {
     
     let leftWall = 50;
-  let rightWall = windowWidth - ship.cenX;
+    let rightWall = windowWidth - ship.cenX;
 
   // cs is the mouseX, but constrained
   // between the leftWall and rightWall!
