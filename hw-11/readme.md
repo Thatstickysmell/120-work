@@ -1,5 +1,6 @@
-# Empty p5 sketch.
+# Zach Kessler
+## Implementing Classes
+#### It took me quite some time to figure out how to call a class and start using its features through an array. I had to look at many examples before i understood how these movement were brought into play. Using the array was initially confusing because the only array brackets are right next to each other in the code. I took me awhile to understand that everything is happening in that set of brackets.
 
-Please replace contents of this file with appropriate readme information after finishing your p5 sketch.
-
-Current p5 version -> 0.7.1
+## Choices
+#### Using `DEGREES` as my `angleMode()` seems much easier to understand compared to radians so I chose to rotate my sun rays with `DEGREES`.
